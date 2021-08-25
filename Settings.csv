@@ -1,0 +1,4 @@
+DataType_Field_Names,TimeStamp_Field_Names,Time_Interval_Seconds,CSV_FileName
+Time_Stamp_flow,Final_Flow,900S,Flow_Data
+Time_Stamp_depth,Final_Depth_in,,
+Time_Stamp_vel,Final_Velocity,,
